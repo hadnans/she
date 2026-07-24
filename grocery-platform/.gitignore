@@ -1,0 +1,6 @@
+node_modules/
+dist/
+skills-lock.json
+.agents/
+.claude/
+.windsurf/
