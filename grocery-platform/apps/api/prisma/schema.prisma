@@ -364,4 +364,3 @@ model AuditLog {
   metadata   Json?
   createdAt  DateTime @default(now())
 }
-
